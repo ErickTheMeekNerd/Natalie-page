@@ -80,10 +80,6 @@ footer {
   border-radius: 17px;
 }
 
-.wrapper {
-  align-items: center;
-}
-
 .col {
   background-color: #edf4f7;
   margin: .3em;
@@ -110,10 +106,6 @@ footer {
 ==================================== */
 
 @media (min-width: 769px) {
-  .col {
-    align-self: center;
-    width: 90%;
-  }
 
 }
 
